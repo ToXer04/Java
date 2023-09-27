@@ -2,6 +2,8 @@ public class es11 {
     public static void main(String[] args) {
         int num1 = 13;
         int num2 = 11;
+        System.out.println("Num1 = " + num1);
+        System.out.println("Num2 = " + num2);
         System.out.println("Are num1 and num2 equal? " + intComp(num1, num2));
     }
     public static boolean intComp(int num1, int num2) {
