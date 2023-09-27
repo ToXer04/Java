@@ -1,5 +1,5 @@
-public class MyClass {
-    public static void main(String args[]) {
+public class es5 {
+    public static void main(String[] args) {
         int num1 = 3;
         int num2 = 7;
         System.out.println("The sum is : " + sum(num1, num2));

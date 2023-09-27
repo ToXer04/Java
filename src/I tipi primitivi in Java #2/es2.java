@@ -1,5 +1,5 @@
-public class MyClass {
-    public static void main(String args[]) {
+public class es2 {
+    public static void main(String[] args) {
         char char1 = 'a';
         char char2 = 'b';
         int sum = (int) char1 + (int) char2;

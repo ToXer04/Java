@@ -1,4 +1,4 @@
-public class exercise {
+public class es1 {
     public static void main(String[] args) {
       float base = 10f;
       int height = 25;
