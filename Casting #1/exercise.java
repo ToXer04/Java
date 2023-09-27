@@ -1,9 +1,8 @@
 public class MyClass {
     public static void main(String args[]) {
-      char char1 = 'a';
-      char char2 = 'b';
-      String charsSum = "" + char1 + char2;
-
-      System.out.println("Sum of chars : " + charsSum);
+        double num1 = 3.0;
+        double num2 = 7.0;
+        int sum = (int) num1 + (int) num2;
+        System.out.println("The sum is : " + sum);
     }
 }
