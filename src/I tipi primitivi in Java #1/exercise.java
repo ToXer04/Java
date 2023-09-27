@@ -1,5 +1,5 @@
-public class MyClass {
-    public static void main(String args[]) {
+public class exercise {
+    public static void main(String[] args) {
       float base = 10f;
       int height = 25;
       double area = (base*height)/2;
