@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b824783-4981-4bb3-8633-4b3f8741ebd6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Casting #1/exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Casting #2/exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I tipi primitivi in Java #1/exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I tipi primitivi in Java #2/exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Le funzioni #1/exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Le funzioni #2/exercise.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +30,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2VzhuJsaKY97PT7URSag1irrJpM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/Git/Java/src/Gli operatori aritmetici #2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +54,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Git\Java\src\Gli operatori aritmetici #2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\Git\Java\src" />
     </key>
@@ -84,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695845037752</updated>
       <workItem from="1695845038792" duration="266000" />
-      <workItem from="1695845735411" duration="377000" />
+      <workItem from="1695845735411" duration="2199000" />
     </task>
     <servers />
   </component>
