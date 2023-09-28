@@ -14,6 +14,5 @@ public class es25 {
         if(!areThereA) {
             System.out.println(0);
         }
-
     }
 }
