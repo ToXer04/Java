@@ -4,9 +4,9 @@ public class es28 {
         arrayMultSum();
     }
     public static void arrayMultSum() {
-        int[][] arr = {{1, 2, 3}, {4, 5, 6}};
+        int[][] arr = {{1, 2, 3}, {4, 5, 6}, {4, 5, 6}};
         int[][] newArr = new int[arr[0].length][arr.length];
-        if(arr[0].length != arr[1].length || arr.length != 2) {
+        if(arr[0].length != arr[1].length) {
             System.out.println("The matrix must have 2 rows with the same amount of columns");
         } else {
             for (int i = 0; i < arr.length; i++) {
