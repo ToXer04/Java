@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Casting #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Casting #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli Array #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli Array #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli Array #3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli Array multidimensionali #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli Array multidimensionali #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori aritmetici #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori aritmetici #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori aritmetici #3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori di assegnazione" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori di comparazione #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori di comparazione #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori logici #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gli operatori logici #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/I cicli avanzati - break, continue, nested loops #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/I cicli avanzati - break, continue, nested loops #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/I tipi primitivi in Java #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/I tipi primitivi in Java #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/If - else - elseif statements #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/If - else - elseif statements #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Il ciclo For #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Il ciclo For #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Il ciclo While" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Le funzioni #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Le funzioni #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Switch statement #1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Switch statement #2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/TeamEs1" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
