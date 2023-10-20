@@ -12,6 +12,9 @@ public class Main {
 
         insieme = removeElement(insieme, val);
         System.out.println(insieme);
+
+        clearSet(insieme);
+        System.out.println(insieme);
     }
     public static Set<Integer> fillSet(Set<Integer> insieme) {
         Random r = new Random();
@@ -29,5 +32,8 @@ public class Main {
             }
         }
         return insieme;
+    }
+    public static void clearSet(Set<Integer> insieme) {
+        insieme.clear();
     }
 }

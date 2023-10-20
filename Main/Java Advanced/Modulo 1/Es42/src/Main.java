@@ -1,15 +1,22 @@
 public class Main {
     public static void main(String[] args) {
-        checkNumAndDen();
-    }
-    public static void checkNumAndDen() {
-        Integer num = null;
-        Integer den = 5;
+        Integer num = 10;
+        Integer den = 2;
         try {
-            double result = num/den;
-            System.out.println(result);
+            System.out.println(divideNumDen(num, den));
         } catch(NullPointerException npe) {
             System.out.println(npe);
+        }
+    }
+    public static double divideNumDen(Integer num, Integer den) {
+        if(num == null && den == null) {
+            throw new NullPointerException("Both num and den are null");
+        } else if(num == null) {
+            throw new NullPointerException("Num is null");
+        } else if(den == null) {
+            throw new NullPointerException("Den is null");
+        } else {
+            return num/den;
         }
     }
 }
