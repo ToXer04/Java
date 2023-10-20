@@ -1,20 +1,31 @@
+import java.util.ArrayList;
 import java.util.Arrays;
 public class es28 {
     public static void main(String[] args) {
-        arrayMultSum();
+        int[][] array = {{1,2,3},{4,5,6},{7,8,9},{10,11,12},{13,14,15}};
+        int[][] newArray = arrayReversed(array);
     }
-    public static void arrayMultSum() {
-        int[][] arr = {{1, 2, 3}, {4, 5, 6}, {4, 5, 6}};
-        int[][] newArr = new int[arr[0].length][arr.length];
-        if(arr[0].length != arr[1].length) {
-            System.out.println("The matrix must have 2 rows with the same amount of columns");
-        } else {
-            for (int i = 0; i < arr.length; i++) {
-                for (int j = 0; j < arr[i].length; j++) {
-                    newArr[j][i] = arr[i][j];
+    public static int[][] arrayReversed(int[][] array) {
+        int[][] newArray = new int[array[0].length][array.length];
+        int rowLength = array[0].length;
+        for(int i = 0; i < array.length; i++) {
+            if(rowLength != array[i].length) {
+                System.out.println("The matrix must have the same amount of columns in each row");
+                return null;
+            }
+            if(i == array.length-1) {
+                System.out.println("Normal array: " + Arrays.deepToString(array));
+                for(int j = 0; j < array.length; j++) {
+                    for(int k = 0; k < array[j].length; k++) {
+                        newArray[k][j] = array[j][k];
+                    }
+                }
+                System.out.println("Reversed array: ");
+                for(int w = 0; w < newArray.length; w++) {
+                    System.out.println(Arrays.toString(newArray[w]));
                 }
             }
-            System.out.println(Arrays.deepToString(newArr));
         }
+        return newArray;
     }
 }
