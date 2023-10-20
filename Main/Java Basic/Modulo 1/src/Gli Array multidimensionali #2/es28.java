@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Arrays;
 public class es28 {
     public static void main(String[] args) {
@@ -21,8 +20,8 @@ public class es28 {
                     }
                 }
                 System.out.println("Reversed array: ");
-                for(int w = 0; w < newArray.length; w++) {
-                    System.out.println(Arrays.toString(newArray[w]));
+                for (int[] ints : newArray) {
+                    System.out.println(Arrays.toString(ints));
                 }
             }
         }
