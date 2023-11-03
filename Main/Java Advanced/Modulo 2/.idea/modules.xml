@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Es47/Es47.iml" filepath="$PROJECT_DIR$/Es47/Es47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Es48/Es48.iml" filepath="$PROJECT_DIR$/Es48/Es48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Es49/Es49.iml" filepath="$PROJECT_DIR$/Es49/Es49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Es50/Es50.iml" filepath="$PROJECT_DIR$/Es50/Es50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Es51/Es51.iml" filepath="$PROJECT_DIR$/Es51/Es51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Es52/Es52.iml" filepath="$PROJECT_DIR$/Es52/Es52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2.iml" filepath="$PROJECT_DIR$/Modulo 2.iml" />
+    </modules>
+  </component>
+</project>
