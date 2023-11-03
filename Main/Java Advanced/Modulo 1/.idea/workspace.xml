@@ -1,115 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf48c711-b419-42de-a4b9-43f0349b2170" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.idea/dictionaries/ToXer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/MagazzinoProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/src/Carrello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/src/Dispositivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/src/Magazzino.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MagazzinoProject/src/TipoDispositivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/.idea/Modulo 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #1/Gli oggetti, il costruttore, getter e setter #1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #1/es29/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #1/es29/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #1/es29/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #1/es29/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #1/es29/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #1/es29/es29.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #2/Gli oggetti, il costruttore, getter e setter #2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #2/es30/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #2/es30/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #2/es30/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #2/es30/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #2/es30/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Gli oggetti, il costruttore, getter e setter #2/es30/es30.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Incapsulamento e modificatori/Incapsulamento e modificatori.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Incapsulamento e modificatori/es31/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Incapsulamento e modificatori/es31/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Incapsulamento e modificatori/es31/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Incapsulamento e modificatori/es31/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Incapsulamento e modificatori/es31/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 2/Incapsulamento e modificatori/es31/es31.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es32/Es32.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es32/src/Animale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es32/src/Gatto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es32/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es33/Es33.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es33/src/Forma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es33/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es33/src/Rettangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es34/Es34.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es34/src/Forma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es34/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es34/src/Rettangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es34/src/Triangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es35/Es35.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es35/src/Forma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es35/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es35/src/Rettangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es35/src/Triangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es36/Es36.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es36/src/Forma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es36/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es36/src/Rettangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es36/src/Triangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es37/Es37.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es37/src/Forma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es37/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es37/src/Rettangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es37/src/Triangolo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es38/Es38.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Es38/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Modulo 3/Modulo 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Casting #1/es3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Casting #2/es4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli Array #1/es24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli Array #2/es25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli Array #3/es26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli Array multidimensionali #1/es27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli Array multidimensionali #2/es28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori aritmetici #1/es7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori aritmetici #2/es8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori aritmetici #3/es9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori di assegnazione/es10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori di comparazione #1/es11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori di comparazione #2/es12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori logici #1/es13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Gli operatori logici #2/es14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/I cicli avanzati - break, continue, nested loops #1/es22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/I cicli avanzati - break, continue, nested loops #2/es23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/I tipi primitivi in Java #1/es1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/I tipi primitivi in Java #2/es2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/If - else - elseif statements #1/es15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/If - else - elseif statements #2/es16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Il ciclo For #1/es20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Il ciclo For #2/es21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Il ciclo While/es19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Le funzioni #1/es5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Le funzioni #2/es6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Switch statement #1/es17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Switch statement #2/es18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/TeamEs1/Calculator.java" beforeDir="false" />
+    <list default="true" id="742a473e-c6bc-409b-9f2e-09d550084ee4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Exercise/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/src/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/src/Università.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Team Projects/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../Team Projects/Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Team Projects/MagazzinoProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Team Projects/MagazzinoProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Team Projects/MagazzinoProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Team Projects/MagazzinoProject/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,48 +23,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="2X041Jxme9JwC7cTDAaudjJwqhd" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2X04B4M3d8WWpA6atWzKprwJWjg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/Develhope/Java/Main/Java Advanced",
-    "onboarding.tips.debug.path": "C:/Users/Administrator/Desktop/Develhope/Java/Main/Java Advanced/Modulo 1/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/Develhope/Java/Team Projects/MagazzinoProject&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Administrator/Desktop/Develhope/Java/Main/Java Advanced/Modulo 1/Es46/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Modulo 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Modulo 1" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Develhope\Java\Main\Java Advanced\Modulo 1\Es40\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf48c711-b419-42de-a4b9-43f0349b2170" name="Changes" comment="" />
-      <created>1697752447987</created>
+      <changelist id="742a473e-c6bc-409b-9f2e-09d550084ee4" name="Changes" comment="" />
+      <created>1697752524619</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697752447987</updated>
+      <updated>1697752524619</updated>
     </task>
     <servers />
   </component>

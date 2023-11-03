@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class TestScanner {
+public class Main {
+    public static void main(String[] args) {
+
+    }
 }
