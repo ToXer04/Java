@@ -13,23 +13,30 @@ public class Main {
         System.out.println("num1: " + num1);
         System.out.println("num2: " + num2);
         System.out.println("operazione: " + operazione);
-        if(num1 == null || num2 == null || operazione == null) {
+        if (num1 == null || num2 == null || operazione == null) {
             return null;
         } else {
-            if(operazione.equals(Operation.Addizione)) {
-                return num1.add(num2);
-            } else if(operazione.equals(Operation.Sottrazione)) {
-                return num1.subtract(num2);
-            } else if(operazione.equals(Operation.Moltiplicazione)) {
-                return num1.multiply(num2);
-            } else if(operazione.equals(Operation.Divisione)) {
-                return num1.divide(num2, RoundingMode.CEILING);
-            } else if (operazione.equals(Operation.Min)) {
-                return num1.min(num2);
-            } else if(operazione.equals(Operation.Max)) {
-                return num1.max(num2);
+            switch (operazione) {
+                case Addizione -> {
+                    return num1.add(num2);
+                }
+                case Sottrazione -> {
+                    return num1.subtract(num2);
+                }
+                case Moltiplicazione -> {
+                    return num1.multiply(num2);
+                }
+                case Divisione -> {
+                    return num1.divide(num2, RoundingMode.CEILING);
+                }
+                case Min -> {
+                    return num1.min(num2);
+                }
+                case Max -> {
+                    return num1.max(num2);
+                }
+                default -> throw new ArithmeticException("This is not a valid operation");
             }
         }
-        throw new ArithmeticException("Make sure to type correct numbers and a valid operation");
     }
 }
