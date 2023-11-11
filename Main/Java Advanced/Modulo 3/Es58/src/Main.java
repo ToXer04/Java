@@ -11,7 +11,7 @@ public class Main {
         if(num1 == null || num2 == null || num3 == null) {
             return null;
         }
-        double result = (num1 + num2 + num3)/3;
+        double result = Math.floor((num1 + num2 + num3)/3);
         return result;
     }
 }
