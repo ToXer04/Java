@@ -1,31 +1,23 @@
+// Immagina di dover creare un sistema di prenotazione di alloggi per una piattaforma di viaggi.
+// Il sistema deve gestire proprietà, utenti, prenotazioni. Ogni proprietà ha un nome, un indirizzo
+// e un numero di stanze disponibili. Ogni utente ha un nome, un'email e può effettuare prenotazioni.
+// Le prenotazioni collegano un utente a una proprietà per un periodo specifico.
+//
+//        Definire un metodo di ricerca di prenotazione per una data.
+//        Definire un metodo che visualizzi tutte le prenotazioni.
+
 import java.util.ArrayList;
 
-/*Esercizio 1: La classe Giocatore
-            Dieci metodi
-
-            9. Il metodo calcolaGoalTotali() in grado di calcolare la somma dei goal fatti dal giocatore tra il club e la nazionale;
-            10. Il metodo toString per poter creare una stringa in grado di mostrare i valori contenuti all'interno del Giocatore.
-
-            Infine, creare un secondo file TestGiocatore.java  dove poter creare i seguenti tre oggetti di tipo Giocatore:
-
-            l'oggetto totti, creato con il costruttore di default ed i valori assegnati grazie ai metodi set;
-
-            l'oggetto zanetti, creato con il costruttore personalizzato;
-
-            l'oggetto delPiero, creato con il costruttore di default ed i cui valori devono essere inseriti tramite la tastiera.*/
 public class Main {
-    public static void main(String[] args) {
-
-//        Giocatore g = new Giocatore("Cristiano", "Ronaldo", false, 200, 50);
-//        Giocatore g1 = new Giocatore("Leo", "Messi", false, 250, 30);
-//        Giocatore g2 = new Giocatore("Diego Armando", "Maradona", true, 150, 40);
-//        Giocatore g3 = new Giocatore("Ciccio", "Caputo", false, 15, 1);
-//
-//        ArrayList<Giocatore> giocatori = new ArrayList<>();
-//        giocatori.add(g);
-//        giocatori.add(g1);
-//        giocatori.add(g2);
-//        giocatori.add(g3);
-
+    public static void main(String[] args) throws Exception {
+        ArrayList<Prenotazione> prenotazioni = new ArrayList<>();
+        Proprietà prop1 = new Proprietà(3, "Test 1", "Via al test 1", prenotazioni);
+        Utente u1 = new Utente("Simone", "Farina", "simonefarina2004@gmail.com");
+        try {
+            prop1.creaPrenotazione(prop1, u1, 2, 1);
+        } catch(Exception e) {
+            System.out.println(e);
+        }
+        System.out.println(prenotazioni);
     }
 }

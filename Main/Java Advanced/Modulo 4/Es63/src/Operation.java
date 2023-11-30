@@ -6,3 +6,4 @@ public enum Operation {
     Min,
     Max
 }
+

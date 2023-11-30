@@ -12,9 +12,9 @@ public class Main {
         Carrello carrello;
         ArrayList<ArrayList<Dispositivo>> listaCompleta = new ArrayList<>();
         Dispositivo disp1 = new Dispositivo("Apple", "Air 2", "Ottime condizioni", "1920*1080", "512Gb", "99.69", "124.99", calcId(listaMagazzino, listaCarrello), TipoDispositivo.Tablet);
-        listaMagazzino.add(disp1);
+        listaCarrello.add(disp1);
         Dispositivo disp2 = new Dispositivo("Apple", "Air 3", "Buone condizioni", "1920*1080", "256Gb", "116.99", "144.49", calcId(listaMagazzino, listaCarrello), TipoDispositivo.Smartphone);
-        listaMagazzino.add(disp2);
+        listaCarrello.add(disp2);
         magazzino = new Magazzino(listaMagazzino);
         carrello = new Carrello(listaCarrello);
         while(!input.equals("0")) {
