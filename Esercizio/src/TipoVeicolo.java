@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum TipoVeicolo {
+public enum TipoVeicolo {
+    MACCHINA,
+    MOTO,
+    FURGONCINO,
+    CAMION
 }

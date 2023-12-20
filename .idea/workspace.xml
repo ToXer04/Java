@@ -5,38 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b824783-4981-4bb3-8633-4b3f8741ebd6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 3/Es38/Es38.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo 3/Es38/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Casting #1/es3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Casting #2/es4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli Array #1/es24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli Array #2/es25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli Array #3/es26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli Array multidimensionali #1/es27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli Array multidimensionali #2/es28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori aritmetici #1/es7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori aritmetici #2/es8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori aritmetici #3/es9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori di assegnazione/es10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori di comparazione #1/es11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori di comparazione #2/es12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori logici #1/es13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gli operatori logici #2/es14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I cicli avanzati - break, continue, nested loops #1/es22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I cicli avanzati - break, continue, nested loops #2/es23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I tipi primitivi in Java #1/es1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I tipi primitivi in Java #2/es2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/If - else - elseif statements #1/es15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/If - else - elseif statements #2/es16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Il ciclo For #1/es20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Il ciclo For #2/es21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Il ciclo While/es19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Le funzioni #1/es5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Le funzioni #2/es6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switch statement #1/es17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switch statement #2/es18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamEs1/Calculator.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercizio/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Esercizio/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio/Esercizio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Esercizio/Esercizio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Esercizio/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio/src/Prenotazione.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio/src/Proprietà.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio/src/Utente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Java Advanced/Modulo 4/Es63/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Java Advanced/Modulo 4/Es63/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team Projects/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/Team Projects/Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team Projects/Magazzino" beforeDir="false" afterPath="$PROJECT_DIR$/Team Projects/Magazzino" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,24 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/Git/Java/Modulo 1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Administrator/Desktop/Git/Java/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/OneDrive/Desktop/Develhope/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Administrator/Desktop/Git/Java/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\Git\Java\src\Gli operatori aritmetici #2" />
